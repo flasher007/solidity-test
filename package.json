@@ -1,5 +1,5 @@
 {
-  "name": "vesting-vault",
+  "name": "vesting-vault-hardhat-req",
   "version": "1.0.0",
   "private": true,
   "scripts": {
